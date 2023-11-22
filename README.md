@@ -1,11 +1,6 @@
 # Web_Scraping_and_Classification
 
-
-Certainly! Here's a simplified README file for your code:
-
----
-
-# News Classification using Machine Learning
+------
 
 This repository contains Python code for classifying news articles into different categories using machine learning techniques. The code fetches articles from a news website, extracts headlines and content, and uses various models for classification.
 
