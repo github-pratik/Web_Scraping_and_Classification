@@ -1,8 +1,9 @@
 # Web_Scraping_and_Classification
 <img width="1186" alt="Screenshot 2023-11-23 at 12 43 49 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/14e0b9fd-9f83-4081-b431-22a6254c66cf">
 <img width="1179" alt="Screenshot 2023-11-23 at 12 43 59 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/8d5e4c08-e118-425e-8048-91111fd65664">
+<img width="1197" alt="Screenshot 2023-11-23 at 12 44 59 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/78942c0a-ede1-46d5-8e2a-acdff5feb056">
 <img width="1181" alt="Screenshot 2023-11-23 at 12 44 07 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/83212612-ac3d-4f32-b6b9-5d7bc91330f0">
 <img width="1195" alt="Screenshot 2023-11-23 at 12 44 35 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/37e8c994-aab1-4591-9d23-a0e8debcbdca">
 <img width="1242" alt="Screenshot 2023-11-23 at 12 44 48 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/b70224c1-575b-4cbd-9ab7-5e60ad461fed">
-<img width="1197" alt="Screenshot 2023-11-23 at 12 44 59 AM" src="https://github.com/github-pratik/Web_Scraping_and_Classification/assets/90708235/78942c0a-ede1-46d5-8e2a-acdff5feb056">
+
 
