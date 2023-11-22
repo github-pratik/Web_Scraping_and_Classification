@@ -24,14 +24,14 @@ pip install requests beautifulsoup4 pandas scikit-learn imbalanced-learn seaborn
 
 ## Usage
 
-1. Run `news_scraping.py` to fetch news articles and create a CSV file (`News_data.csv`) with headlines, content, and categories.
+1. Run `News_Scraping_and_Classification_final.ipynb` to fetch news articles and create a CSV file (`News_data.csv`) with headlines, content, and categories.
 
 2. Run `news_classification.py` to perform text classification using K-Nearest Neighbors and Support Vector Machine models. The optimal parameters are determined through cross-validation.
 
 ## Folder Structure
-- `News_Scraping_and_Classification`: Contains the Code file of Web_Scraping and Classification
+- `News_Scraping_and_Classification_final`: Contains the Code file of Web_Scraping and Classification
 - `News_data.csv`: Contains the CSV file with NEWS data.
-- `images/`: Placeholder for images used in the README.
+- `README.md`: Placeholder for images used in the README.
 - `README.md`: Documentation explaining the code and usage.
 
 
